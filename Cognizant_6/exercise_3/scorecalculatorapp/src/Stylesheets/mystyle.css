@@ -1,0 +1,22 @@
+.Name {
+  color: #003366;
+  font-size: 22px;
+}
+
+.School {
+  color: #666600;
+  font-weight: bold;
+}
+
+.Total {
+  color: green;
+}
+
+.Score {
+  color: red;
+}
+
+.Percent {
+  color: #cc00cc;
+  font-style: italic;
+}
