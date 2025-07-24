@@ -1,1 +1,1 @@
-# Cognizent
+# Cognizant
