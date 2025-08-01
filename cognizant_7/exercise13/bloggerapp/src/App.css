@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 100px;
+}
+
+.divider-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+/* Each content section */
+.section {
+  flex: 1;
+  padding: 10px;
+}
+.section h3 {
+  font-size: 1.8rem;
+  color: green;
+  font-weight: bold;
+}
+
+/* Green vertical divider line */
+.vline {
+  width: 0.1cm;
+  background-color: green;
+  height: auto;
+  min-height: 200px;
+}
